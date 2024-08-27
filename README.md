@@ -1,4 +1,4 @@
-# Final Assignment - Data Analysis with Python
+# Final Assignment - Python Project for Data Science - Extracting and Visualizing Stock Data
 
 This repository contains the final assignment for the Data Analysis with Python course. The assignment involves using Python libraries to extract, analyze, and visualize stock and revenue data for Tesla and GameStop.
 
